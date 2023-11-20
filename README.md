@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # ttt assignment
 We have used react-dom and react-icons packages in this assesment. 
 The profile data including title, followers, following, blog content, date etc. can be rendered through json key-value pair data.
 The website is responsive for all moblie phones and a laptop as well.
-=======
+Netlify link: https://655be9358043f805740fa44a--fluffy-belekoy-4df74e.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
